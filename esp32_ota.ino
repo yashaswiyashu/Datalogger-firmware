@@ -4,15 +4,15 @@
 #include <WiFiClientSecure.h>
 #include "cert.h"
 
-const char * ssid = "RSC_2_4G";
-const char * password = "Rscsys@123";
+const char * ssid = "Yashu";
+const char * password = "244466666";
 
 
 String FirmwareVer = {
-  "2.1"
+  "2.2"
 };
-#define URL_fw_Version "https://github.com/yashaswiyashu/Datalogger-firmware/blob/main/bin_version.txt"
-#define URL_fw_Bin "https://github.com/yashaswiyashu/Datalogger-firmware/blob/main/fw.bin"
+#define URL_fw_Version "https://github.com/yashaswiyashu/Datalogger-firmware/blob/master/bin_version.txt"
+#define URL_fw_Bin "https://github.com/yashaswiyashu/Datalogger-firmware/blob/master/fw.bin"
 
 //#define URL_fw_Version "http://cade-make.000webhostapp.com/version.txt"
 //#define URL_fw_Bin "http://cade-make.000webhostapp.com/firmware.bin"
