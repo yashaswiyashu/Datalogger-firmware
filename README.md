@@ -1,3 +1,3 @@
 # Dataloggerfirmware
-Version --> bin_version.txt\n
+Version --> bin_version.txt
 File --> fw.bin
